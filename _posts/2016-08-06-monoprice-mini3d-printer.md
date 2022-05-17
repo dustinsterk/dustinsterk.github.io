@@ -5,7 +5,7 @@ categories: [3DPrinting]
 published: true
 ---
 
-[](images/monoprice.jpg)
+![](images/monoprice.jpg)
 
 I will start out by saying, the MonoPrice Mini3D printer is amazing and for $200 you cannot go wrong!
 
@@ -33,6 +33,7 @@ Open Cura and load the model.  Set your settings to the following:
 
 ![](images/Screen-Shot-2016-08-14-at-9.43.49-PM.png)
 ![](images/Screen-Shot-2016-08-14-at-9.44.00-PM.png)
+
 
 Use the following code for start/end-gcode:
 ```
