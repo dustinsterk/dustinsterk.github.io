@@ -20,7 +20,7 @@ I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set 
 
 Once I hooked this up with the Female DB9 (9FRJ45PC-1) as per the image below…we were good to go.
 
-![](../images/cable1-700x358-672x358-300x160.png)
+![](../images/cable1-700x358-672x358.png)
 
 The final connection should look like this:
 

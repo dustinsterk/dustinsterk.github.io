@@ -4,8 +4,7 @@ date: "2014-04-20"
 categories: [Routers]
 published: true
 ---
-
-![](../images/UBNT_Primary_Logo_RGB.png)
+<img src="../images/UBNT_Primary_Logo_RGB.png" alt="" width="200"/>
 
 I have installed and configured many different networking devices in my career and personal life. Everything from Enterprise Cisco ASA’s to home Linksys routers. In my personal opinion the best bang for your buck are the following two products. Ubiquiti has an amazing online community and are rock solid across the board.
 
