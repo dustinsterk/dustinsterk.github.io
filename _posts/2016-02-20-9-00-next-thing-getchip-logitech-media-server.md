@@ -5,7 +5,7 @@ categories: [LMS]
 published: true
 ---
 
-![getchip](images/getchip.png)
+[](images/getchip.png)
 **I must say for $9.00 it could be the best LMS for the price**
 
 Setup could not have been easier.  First unbox the device and connect it to a TV to setup the wireless and get the IP.

@@ -5,7 +5,7 @@ categories: [3DPrinting]
 published: true
 ---
 
-![](images/153651-1024x768.jpg)
+[](images/monoprice.jpg)
 
 I will start out by saying, the MonoPrice Mini3D printer is amazing and for $200 you cannot go wrong!
 
