@@ -1,6 +1,8 @@
 ---
 title: "VINLY AND TUBES"
 date: "2014-05-17"
+categories: [TubeAmps]
+published: true
 ---
 
 I have been interested in Tube amps for quite some time. I recently got bitten by the Vinyl bug.

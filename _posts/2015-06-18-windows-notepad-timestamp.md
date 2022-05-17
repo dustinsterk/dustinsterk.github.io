@@ -1,9 +1,11 @@
 ---
 title: "Windows Notepad Timestamp"
 date: "2015-06-18"
+categories: [Windows]
+published: true
 ---
 
-[![notepad](images/notepad.jpg)](http://www.thesterk.com/wp-content/uploads/2015/06/notepad.jpg)
+![notepad](images/notepad.jpg)
 
 Pro Tip of the day....open MS Notepad.  Next place the following at the top of the file:   .LOG
 

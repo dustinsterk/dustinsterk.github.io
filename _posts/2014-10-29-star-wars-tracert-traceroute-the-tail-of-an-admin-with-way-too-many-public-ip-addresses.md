@@ -1,6 +1,8 @@
 ---
 title: "Star Wars Tracert (Traceroute): The tail of an Admin with way too many public IP addresses"
 date: "2014-10-29"
+categories: [Networking]
+published: true
 ---
 
 I found this humerus but also wonder how he was able to justify his block of statics.

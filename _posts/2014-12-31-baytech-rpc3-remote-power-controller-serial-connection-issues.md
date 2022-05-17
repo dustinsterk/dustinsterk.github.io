@@ -1,9 +1,11 @@
 ---
 title: "Baytech RPC3 Remote Power Controller – Serial Connection Issues"
 date: "2014-12-31"
+categories: [Baytech]
+published: true
 ---
 
-I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set the IP information.  After reading the article from Altered Realms ([http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/](http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/)) I was still having trouble connecting to the serial port.  After some studying of the user manual ([http://www.baytech.net/downloads/manuals/U140E125-01\_rpc.pdf](http://www.baytech.net/downloads/manuals/U140E125-01_rpc.pdf)) I realized that you need a “Rollover” RJ45 cable.  This is NOT a standard cross-over cable but luckily can be easily made by cutting a standard patch cable and twisting the following pairs together (1-8,2-7,3-6,4-5,5-4,6-3,7-2,8-1):
+I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set the IP information.  After reading the article from Altered Realms ([http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/](http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/){:target="_blank"}) I was still having trouble connecting to the serial port.  After some studying of the user manual ([http://www.baytech.net/downloads/manuals/U140E125-01\_rpc.pdf](http://www.baytech.net/downloads/manuals/U140E125-01_rpc.pdf){:target="_blank"}) I realized that you need a “Rollover” RJ45 cable.  This is NOT a standard cross-over cable but luckily can be easily made by cutting a standard patch cable and twisting the following pairs together (1-8,2-7,3-6,4-5,5-4,6-3,7-2,8-1):
 
 - Light Orange / Brown
 - Orange / Light Brown
@@ -14,11 +16,11 @@ I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set 
 - Light-Brown / Orange
 - Brown / Light-Orange
 
-[![568b-150x150](images/568b-150x150.jpg)](http://104.167.119.213/wp-content/uploads/2014/12/568b-150x150.jpg)
+![](images/568b-150x150.jpg)
 
 Once I hooked this up with the Female DB9 (9FRJ45PC-1) as per the image below…we were good to go.
 
-[![cable1-700x358-672x358](images/cable1-700x358-672x358-300x160.png)](http://104.167.119.213/wp-content/uploads/2014/12/cable1-700x358-672x358.png)
+![](images/cable1-700x358-672x358-300x160.png)
 
 The final connection should look like this:
 

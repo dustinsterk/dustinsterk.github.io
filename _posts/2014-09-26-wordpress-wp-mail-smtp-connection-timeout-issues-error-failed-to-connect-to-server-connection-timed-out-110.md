@@ -1,6 +1,8 @@
 ---
 title: "WordPress WP Mail SMTP Connection Timeout Issues – ERROR: Failed to connect to server: Connection timed out (110)"
 date: "2014-09-26"
+categories: [Wordpress]
+published: true
 ---
 
 If you have issues with sending SMTP messages from your wordpress host and have already checked the basics (username, password, firewall, ports, etc.) try to disable IPv6 on your server.
