@@ -4,13 +4,13 @@ date: "2016-08-06"
 categories: [3DPrinting]
 published: true
 ---
-![](images/monoprice.jpg)
+<img src="images/monoprice.jpg" alt="" width="200"/>
 
 I will start out by saying, the MonoPrice Mini3D printer is amazing and for $200 you cannot go wrong!
 
 Don't forget to order your filament:
 
-[https://www.amazon.com/gp/product/B00J0HC4QC](https://www.amazon.com/gp/product/B00J0HC4QC)
+[https://www.amazon.com/gp/product/B00J0HC4QC](https://www.amazon.com/gp/product/B00J0HC4QC){:target="_blank"}
 
 After you unbox and set it up, the next thing you need to do is install Cura.  Cura is a program that "slices" 3D models into parts the printer can understand.  I recommend Cura 15.04 (not the latest 2.x as it still is missing features and has bugs).
 
@@ -19,6 +19,8 @@ After you unbox and set it up, the next thing you need to do is install Cura.  
 [https://ultimaker.com/en/products/cura-software/download-request/70](https://ultimaker.com/en/products/cura-software/download-request/70){:target="_blank"}
 
 After you install the software, open the program and ensure you setup the machine (choose Ultimaker in the wizard and then customize it) with the following settings.  Pay attention to the size of the printer area which is 120X120.  This is necessary to ensure the machine does not think it can move further that it actually can (this will cause damage to your printer).
+
+![S](images/Screen-Shot-2016-08-14-at-9.53.30-PM.png)
 
 <img src="images/Screen-Shot-2016-08-14-at-9.53.30-PM.png" alt="" width="200"/>
 
