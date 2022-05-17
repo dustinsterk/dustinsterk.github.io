@@ -20,9 +20,7 @@ After you unbox and set it up, the next thing you need to do is install Cura.  
 
 After you install the software, open the program and ensure you setup the machine (choose Ultimaker in the wizard and then customize it) with the following settings.  Pay attention to the size of the printer area which is 120X120.  This is necessary to ensure the machine does not think it can move further that it actually can (this will cause damage to your printer).
 
-![S](images/Screen-Shot-2016-08-14-at-9.53.30-PM.png)
-
-<img src="images/Screen-Shot-2016-08-14-at-9.53.30-PM.png" alt="" width="200"/>
+![](../images/Screen-Shot-2016-08-14-at-9.53.30-PM.png)
 
 **Next, download a 3D model from one of the following sites:**
 
@@ -32,8 +30,8 @@ After you install the software, open the program and ensure you setup the machin
 
 Open Cura and load the model.  Set your settings to the following:
 
-![](images/Screen-Shot-2016-08-14-at-9.43.49-PM.png)
-![](images/Screen-Shot-2016-08-14-at-9.44.00-PM.png)
+![](../images/Screen-Shot-2016-08-14-at-9.43.49-PM.png)
+![](../images/Screen-Shot-2016-08-14-at-9.44.00-PM.png)
 
 Use the following code for start/end-gcode:
 ```
