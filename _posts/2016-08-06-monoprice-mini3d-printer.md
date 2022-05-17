@@ -20,7 +20,6 @@ After you unbox and set it up, the next thing you need to do is install Cura.  
 
 After you install the software, open the program and ensure you setup the machine (choose Ultimaker in the wizard and then customize it) with the following settings.  Pay attention to the size of the printer area which is 120X120.  This is necessary to ensure the machine does not think it can move further that it actually can (this will cause damage to your printer).
 
-![](images/Screen-Shot-2016-08-14-at-9.53.30-PM.png)
 <img src="images/Screen-Shot-2016-08-14-at-9.53.30-PM.png" alt="" width="200"/>
 
 **Next, download a 3D model from one of the following sites:**
@@ -34,7 +33,6 @@ Open Cura and load the model.  Set your settings to the following:
 ![](images/Screen-Shot-2016-08-14-at-9.43.49-PM.png)
 ![](images/Screen-Shot-2016-08-14-at-9.44.00-PM.png)
 
-
 Use the following code for start/end-gcode:
 ```
 **start.gcode:**
@@ -46,6 +44,7 @@ G21 ;metric values G90 ;absolute positioning M82 ;set extruder to absolute mode 
 
 **end.gcode:**
 ```
+
 ```
 M104 S0 ;extruder off M140 S0 ;heated bed heater off (if you have it) M106 T45 ;fan to turn off when at 45deg C G91 ;relative positioning G1 E-1 F300 ;retract the filament a bit before lifting the nozzle, to release some of the pressure G1 Z+0.5 E-5 X-20 Y-20 F6000 ;move Z up a bit and retract filament even more G28 X0 Y0 ;move X/Y to min endstops, so the head is out of the way M84 ;steppers off G90 ;absolute positioning
 ```
@@ -60,9 +59,7 @@ Congrats!  You should now have a great 3D model.  :)
 
 **Tweak sites:**
 
-[](https://hackaday.com/2016/07/07/modding-the-monoprice-mp-mini-printer/){:target="_blank"}
-
- 
+[https://hackaday.com](https://hackaday.com/2016/07/07/modding-the-monoprice-mp-mini-printer/){:target="_blank"}
 
 **If you want to create your own 3D models check out the following:**
 
