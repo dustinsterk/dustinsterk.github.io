@@ -5,7 +5,7 @@ categories: [AV]
 published: true
 ---
 
-![download](images/download.jpg)
+![](../images/download.jpg)
 
 This is a very detailed analysis of some very sophisticated software. Thank you Kaspersky on the analysis and facts.
 

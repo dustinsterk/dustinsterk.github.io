@@ -5,7 +5,7 @@ categories: [Hyperspin]
 published: true
 ---
 
-![](images/logo-300x114.png)
+![](../images/logo-300x114.png)
 
 I was having a strange problem with the arcade software HyperSpin. I had to install the hacked ATI video drivers created by Calamity for my Raedon Graphics Card to be able to use the arcade monitors [http://mame.groovy.org/WindowsATIDrivers/](http://mame.groovy.org/WindowsATIDrivers/){:target="_blank"}.
 

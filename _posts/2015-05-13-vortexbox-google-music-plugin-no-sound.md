@@ -5,7 +5,7 @@ categories: [VortexBox]
 published: true
 ---
 
-![](images/VB.png)
+![](../images/VB.png)
 
 I was able to setup the Google Music Plugin on my VortexBox and see all of my music in the browse nodes, but whenever I tried to play anything all I would get was ‘dead air’.
 

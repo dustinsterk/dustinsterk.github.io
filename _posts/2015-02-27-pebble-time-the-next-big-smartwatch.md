@@ -5,7 +5,7 @@ categories: [Smart Watch]
 published: true
 ---
 
-![](images/a361fd85680fccb17de65c13aa3e73bd_original-150x150.png)
+![](../images/a361fd85680fccb17de65c13aa3e73bd_original-150x150.png)
 
 If you have not heard…Pebble is releasing a new product called “Pebble Time”. The kickstarted has already raised more then 11M and it still has 28 days left!
 

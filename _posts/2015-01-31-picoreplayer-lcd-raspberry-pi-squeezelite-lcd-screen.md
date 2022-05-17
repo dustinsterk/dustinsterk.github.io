@@ -5,9 +5,9 @@ categories: [piCorePlayer]
 published: true
 ---
 
-https://youtu.be/TvvKoFj5pQ0
+![YouTube](https://youtu.be/TvvKoFj5pQ0)
 
-Thanks to a great Python script from WiredCharlie ([LCD Player](http://forums.slimdevices.com/showthread.php?101269-piCorePlayer-%A32-LCD)), an amazing application from Triode ([Squeezelite](http://forums.slimdevices.com/showthread.php?97046-Announce-Squeezelite-a-small-headless-squeezeplay-emulator-for-linux-(alsa-only))), and a small Linux build for the Raspberry Pi ([piCorePlayer](http://forums.slimdevices.com/showthread.php?97803-piCorePlayer-Squeezelite-on-Microcore-linux-An-embedded-OS-in-RAM-with-Squeezelite)); I am finally able to put together a squeezebox player for less than $50!
+Thanks to a great Python script from WiredCharlie ([LCD Player](http://forums.slimdevices.com/showthread.php?101269-piCorePlayer-%A32-LCD){:target="_blank"}), an amazing application from Triode ([Squeezelite](http://forums.slimdevices.com/showthread.php?97046-Announce-Squeezelite-a-small-headless-squeezeplay-emulator-for-linux-(alsa-only)){:target="_blank"}), and a small Linux build for the Raspberry Pi ([piCorePlayer](http://forums.slimdevices.com/showthread.php?97803-piCorePlayer-Squeezelite-on-Microcore-linux-An-embedded-OS-in-RAM-with-Squeezelite){:target="_blank"}); I am finally able to put together a squeezebox player for less than $50!
 
 If you are not familiar with the squeezebox, it is a multi-room wireless music player that blows the doors off of Sonos and other competitive products. Unfortunately Logitech squashed the product, but luckily the community is keeping it alive! It is a amazing product that integrates with all major streaming services and also caters to the hifi user allowing for all forms of lossless and lossy audio formats.
 
@@ -15,7 +15,7 @@ If you are not familiar with the squeezebox, it is a multi-room wireless music p
 
 **Step 2:** Wire up the LCD screen according to the schematic by WiredCharlie.  Notice you need the 47K potentiometer and 50ohm resistor in addition to the LCD:
 
-![piCorePlayerLCD-672x372](images/piCorePlayerLCD-672x372-300x166.jpg)
+![](../images/piCorePlayerLCD-672x372-300x166.jpg)
 
 **Step 3:** Load the following image from your machine on the SD card [Download Here](https://drive.google.com/file/d/0B-txOr6ZUTq5blI4RkQxNXF4ajg/view?usp=sharing){:target="_blank"}
 

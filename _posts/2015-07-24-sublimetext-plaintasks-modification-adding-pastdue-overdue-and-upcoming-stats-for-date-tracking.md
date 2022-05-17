@@ -5,7 +5,7 @@ categories: [SublimeText]
 published: true
 ---
 
-![sublimetext](images/sublimetext-300x300.jpg)
+![](../images/sublimetext-300x300.jpg)
 
 I started using the PlainTasks plugin for SublimeText as my daily todo and work tracking list.  What a great plugin!
 
@@ -38,7 +38,7 @@ Mine looks like this:
 
 Finally you can open your TODO list and you will see the following at the bottom:
 
-[](images/Screen-Shot-2015-08-03-at-10.31.13-PM.jpg)
+[](../images/Screen-Shot-2015-08-03-at-10.31.13-PM.jpg)
 
  
 

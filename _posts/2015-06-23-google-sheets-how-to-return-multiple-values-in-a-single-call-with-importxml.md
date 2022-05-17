@@ -5,7 +5,7 @@ categories: [Google]
 published: true
 ---
 
-![sheets](images/sheets.jpg)
+![](../images/sheets.jpg)
 
 I have been tinkering with Google Sheets and building a document that can automatically pull data from other websites.
 

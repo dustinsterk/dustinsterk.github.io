@@ -5,7 +5,7 @@ categories: [SMS]
 published: true
 ---
 
-![](images/GitImage-300x300-300x300.png)
+![](../images/GitImage-300x300-300x300.png)
 
 SMSSecure is a messaging app for simple private communication with friends to communicate securely using SMS.
 

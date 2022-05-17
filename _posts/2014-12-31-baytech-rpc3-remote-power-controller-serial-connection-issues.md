@@ -16,12 +16,12 @@ I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set 
 - Light-Brown / Orange
 - Brown / Light-Orange
 
-![](images/568b-150x150.jpg)
+![](../images/568b-150x150.jpg)
 
 Once I hooked this up with the Female DB9 (9FRJ45PC-1) as per the image below…we were good to go.
 
-![](images/cable1-700x358-672x358-300x160.png)
+![](../images/cable1-700x358-672x358-300x160.png)
 
 The final connection should look like this:
 
-\[Baytech RJ45 management port\] -> \[Rollover RJ45 cable\] -> \[9FRJ45PC-1\] -> \[Serial port on PC (or USB to Serial Adapter)\]
+[Baytech RJ45 management port\] -> \[Rollover RJ45 cable\] -> \[9FRJ45PC-1\] -> \[Serial port on PC (or USB to Serial Adapter)\]

@@ -4,7 +4,7 @@ date: "2015-12-21"
 categories: [LMS]
 published: true
 ---
-![](images/CCA-1024x768.jpg)
+![](../images/CCA-1024x768.jpg)
 
 I have recently started to look into the Google Chromecast Audio and the ability to use the device with LMS.  Luckily, a user over on the slimdevices forum has solved this problem.  Check out CastBridge as seen here: [http://forums.slimdevices.com/showthread.php?104614-Announce-CastBridge-integrate-Chromecast-players-with-LMS-(squeeze2cast)](http://forums.slimdevices.com/showthread.php?104614-Announce-CastBridge-integrate-Chromecast-players-with-LMS-(squeeze2cast)){:target="_blank"}
 
