@@ -1,9 +1,11 @@
 ---
 title: "Ubiquiti UniFi Access Points – Setting RSSI"
 date: "2014-12-03"
+categories: [Ubiquiti]
+published: true
 ---
 
-[![UniFi](images/UniFi-300x199.png)](http://104.167.119.213/wp-content/uploads/2014/12/UniFi.png)
+![](../images/UniFi-300x199.png)
 
 Minimum RSSI works by kicking wireless clients that fall below the configured RSSI threshold. RSSI is a vendor-specific value. With UniFi, RSSI & SNR are synonymous. As long as a user remains above the RSSI threshold (SNR), they won’t be kicked.
 
@@ -78,4 +80,4 @@ ps
 
  
 
-[https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637](https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637 "https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637")
+[https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637](https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637 "https://community.ubnt.com/t5/UniFi-Configuration-Examples/UniFi-Set-minimum-RSSI-for-clients/ta-p/522637"){:target="_blank"}

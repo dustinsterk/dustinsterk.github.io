@@ -5,7 +5,7 @@ categories: [Clocks]
 published: true
 ---
 
-![](../images/bulbdial-in-livingroom_grande-300x225.jpg)
+![](../images/bulbdial-in-livingroom_grande.jpg)
 
 I have always had a fascination with clocks and time.  I found this new clock that has been added to my personal list of next builds….
 
