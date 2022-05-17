@@ -4,7 +4,7 @@ date: "2016-08-06"
 categories: [3DPrinting]
 published: true
 ---
-<img src="images/monoprice.jpg" alt="" width="200"/>
+<img src="../images/monoprice.jpg" alt="" width="200"/>
 
 I will start out by saying, the MonoPrice Mini3D printer is amazing and for $200 you cannot go wrong!
 
