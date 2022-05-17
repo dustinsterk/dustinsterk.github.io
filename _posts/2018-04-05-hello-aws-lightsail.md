@@ -5,7 +5,7 @@ categories: [Hosting]
 published: true
 ---
 
-[![](images/LightSail.png)]
+![](images/LightSail.png)
 AWS cheap hosting
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
