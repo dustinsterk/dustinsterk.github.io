@@ -4,8 +4,7 @@ date: "2015-10-06"
 categories: [Apple]
 published: true
 ---
-
-[apple](images/apple.png)
+![](images/apple.png)
 
 I have recently replaced my iPhone 6S.  Using the cloud backup restore, there appears to be a bug/issue that has caused me to loose all of my SMS messages, call history and apps are crashing left and right.
 

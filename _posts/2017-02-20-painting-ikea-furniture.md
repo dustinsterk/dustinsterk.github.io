@@ -4,7 +4,6 @@ date: "2017-02-20"
 categories: [LifeHack]
 published: true
 ---
-
 ![](images/ikea.png)
 
 We recently purchased a few dressers from IKEA furniture, but unfortunately they did not carry any grey colors by default.  We figured it would be a fun project to paint the colors they did have, specifically "White Stain".   We purchased the White Stain version thinking that with the exposed wood, paint would stick easily without any primer.  After painting all four pieces and letting the paint dry for 24 hours, I returned to find that the paint would peel off with the touch of a fingernail!  Ugh....this was a major mistake...

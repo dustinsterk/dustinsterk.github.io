@@ -4,7 +4,6 @@ date: "2017-01-26"
 categories: [Hosting]
 published: true
 ---
-
 ![](images/cloud-logo-2.png)
 
 After a few years of trying to host this simple site with the provider
