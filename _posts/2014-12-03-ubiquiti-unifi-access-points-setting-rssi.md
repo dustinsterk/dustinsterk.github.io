@@ -5,7 +5,7 @@ categories: [Ubiquiti]
 published: true
 ---
 
-![](../images/UniFi-300x199.png)
+![](../images/UniFi.png)
 
 Minimum RSSI works by kicking wireless clients that fall below the configured RSSI threshold. RSSI is a vendor-specific value. With UniFi, RSSI & SNR are synonymous. As long as a user remains above the RSSI threshold (SNR), they won’t be kicked.
 

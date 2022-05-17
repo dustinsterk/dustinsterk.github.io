@@ -5,7 +5,7 @@ categories: [FreeNAS]
 published: true
 ---
 
-![](images/logo11.png)
+![](../images/logo11.png)
 
 For anyone looking to build a NAS device I highly recommend FreeNAS.  It has a variety of options but I was most interested in NFS/iSCSI for my Vmware ESXi lab.
 
