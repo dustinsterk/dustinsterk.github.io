@@ -4,9 +4,8 @@ date: "2015-01-31"
 categories: [piCorePlayer]
 published: true
 ---
-<p align="center">
-[![](https://img.youtube.com/vi/TvvKoFj5pQ0/0.jpg)](https://www.youtube.com/watch?v=TvvKoFj5pQ0){:target="_blank"}
-</p>
+[![](https://img.youtube.com/vi/TvvKoFj5pQ0/0.jpg#center)](https://www.youtube.com/watch?v=TvvKoFj5pQ0){:target="_blank"}
+
 
 Thanks to a great Python script from WiredCharlie ([LCD Player](http://forums.slimdevices.com/showthread.php?101269-piCorePlayer-%A32-LCD){:target="_blank"}), an amazing application from Triode ([Squeezelite](http://forums.slimdevices.com/showthread.php?97046-Announce-Squeezelite-a-small-headless-squeezeplay-emulator-for-linux-(alsa-only)){:target="_blank"}), and a small Linux build for the Raspberry Pi ([piCorePlayer](http://forums.slimdevices.com/showthread.php?97803-piCorePlayer-Squeezelite-on-Microcore-linux-An-embedded-OS-in-RAM-with-Squeezelite){:target="_blank"}); I am finally able to put together a squeezebox player for less than $50!
 
