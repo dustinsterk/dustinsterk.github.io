@@ -4,7 +4,7 @@ date: "2022-05-17"
 categories: [Hosting]
 published: true
 ---
-<img src="../images/githubpages.jpg" alt="" width="200"/>
+<img src="../images/githubpages.jpg" alt="" width="400"/>
 Free hosting
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
