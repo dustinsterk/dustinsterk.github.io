@@ -4,6 +4,7 @@ date: "2014-12-31"
 categories: [Baytech]
 published: true
 ---
+![](../images/baytech.jpg)
 
 I purchased a Baytech RPC-3 Remote Power Controller from ebay and needed to set the IP information.  After reading the article from Altered Realms ([http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/](http://www.copyerror.com/2014/04/25/baytech-rpc3-remote-power-controller/){:target="_blank"}) I was still having trouble connecting to the serial port.  After some studying of the user manual ([http://www.baytech.net/downloads/manuals/U140E125-01\_rpc.pdf](http://www.baytech.net/downloads/manuals/U140E125-01_rpc.pdf){:target="_blank"}) I realized that you need a “Rollover” RJ45 cable.  This is NOT a standard cross-over cable but luckily can be easily made by cutting a standard patch cable and twisting the following pairs together (1-8,2-7,3-6,4-5,5-4,6-3,7-2,8-1):
 
