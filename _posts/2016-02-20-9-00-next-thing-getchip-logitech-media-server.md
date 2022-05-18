@@ -37,13 +37,15 @@ After the reboot lets test out that we can mount a network share:
 sudo mkdir /storage
 
 nano /etc/fstab
+```
 
 Scroll down to the first blank line and enter the follow (replacing your server and file path) and save and exit:
-
+```
 //<serverip>/<file path> /storage cifs username=guest,password=
+```
 
 Now lets test things out:
-
+```
 Mount -a
 ```
 

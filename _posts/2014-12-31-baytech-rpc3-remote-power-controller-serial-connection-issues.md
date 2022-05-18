@@ -24,4 +24,6 @@ Once I hooked this up with the Female DB9 (9FRJ45PC-1) as per the image below…
 
 The final connection should look like this:
 
+```
 [Baytech RJ45 management port\] -> \[Rollover RJ45 cable\] -> \[9FRJ45PC-1\] -> \[Serial port on PC (or USB to Serial Adapter)\]
+```

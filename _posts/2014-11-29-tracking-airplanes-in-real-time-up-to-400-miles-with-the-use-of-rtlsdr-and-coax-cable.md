@@ -24,10 +24,9 @@ Collinear Antenna build with coax cable (optional):
 
  
 
-[](https://www.youtube.com/watch?feature=player\_embedded&v=TkUYdCPFXXs){:target="_blank"}
+[Video Link](https://www.youtube.com/watch?feature=player\_embedded&v=TkUYdCPFXXs){:target="_blank"}
 
-Instructions:
-
+**Instructions:**
 Install your favorite version of Linux, Dump 1090.  Plug in your USB hardware.  Execute the following:
 
 ```

@@ -13,6 +13,6 @@ As you can see below, the test was successful, but the Serial Number was still n
 
 ![](../images/Ross-Tech.png)
 
-As it turns out, after reviewing in further detail the FAQ ([http://www.ross-tech.com/vag-com/faq\_4.html#4.1](http://www.ross-tech.com/vag-com/faq_4.html#4.1){:target="_blank"}), you must connect to some “control modules” and you must query fault codes before you get a serial number.
+As it turns out, after reviewing in further detail the FAQ [http://www.ross-tech.com/vag-com/faq\_4.html#4.1](http://www.ross-tech.com/vag-com/faq_4.html#4.1){:target="_blank"}, you must connect to some “control modules” and you must query fault codes before you get a serial number.
 
 I hope this helps someone else who has the same issue.

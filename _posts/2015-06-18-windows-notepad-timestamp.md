@@ -7,7 +7,10 @@ published: true
 
 ![](../images/notepad.jpg)
 
-Pro Tip of the day....open MS Notepad.  Next place the following at the top of the file:   .LOG
+Pro Tip of the day....open MS Notepad.  Next place the following at the top of the file:   
+```
+.LOG
+```
 
 Now when you open the file it will automatically insert the date and time.
 

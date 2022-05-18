@@ -52,14 +52,14 @@ cd /var/lib/squeezeboxserver/cache/InstalledPlugins/Plugins/GoogleMusic/ nano Se
 eval { $googleapi->login($prefs->get('username'), decode\_base64($prefs->get('password')), $prefs->get('device\_id'));
 ```
 
-SAVE THE FILE
+**SAVE THE FILE**
 ```
 nano Plugin.pm
 
 eval { $googleapi->login($prefs->get('username'), decode\_base64($prefs->get('password')), $prefs->get('device\_id'));
 ```
-SAVE THE FILE
+**SAVE THE FILE**
 
-REBOOT!
+**REBOOT!**
 
 Now Vortexbox 2.3 and Logitech Media Server 7.9 will have Google Music working again!
