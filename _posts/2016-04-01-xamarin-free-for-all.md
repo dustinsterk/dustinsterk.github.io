@@ -4,7 +4,7 @@ date: "2016-04-01"
 categories: [Code]
 published: true
 ---
-
+![](../images/xamarin.png)
 On March 18th, 2016, Microsoft’s acquisition of Xamarin officially closed.
 
 As of today, Microsoft has announced that Xamarin is free and open source!

@@ -4,6 +4,7 @@ date: "2015-08-14"
 categories: [LMS]
 published: true
 ---
+![](../images/googlemusic.png)
 
 **I have successfully fixed the Google Music Plugin for Vortexbox 2.3 / LMS 7.9:**
 
