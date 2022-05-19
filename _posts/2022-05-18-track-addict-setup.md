@@ -10,7 +10,7 @@ My High Performance Driving Video and Data Logging Setup.
 
 # Overview
 
-I have been interested in High Performacne Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works and all in for under $500.  This is less than 1/2 the cost compared to the professional [AiM Sports SmartyCam HD 2.1](https://store.windingroad.com/aim-sports-smartycam-hd-2-1){:target="_blank"}.  
+I have been interested in High Performance Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works and all in for under $500.  This is less than 1/2 the cost compared to the professional [AiM Sports SmartyCam HD 2.1](https://store.windingroad.com/aim-sports-smartycam-hd-2-1){:target="_blank"}.  
 
 **Hardware:**
 * OBD BLE Data Reader [$40](https://www.amazon.com/gp/product/B073XKQQQW){:target="_blank"}
@@ -36,7 +36,7 @@ I have been interested in High Performacne Driving (HPDE) events since 2018.  I 
 * Microphone Jack Adapter [$10](https://www.amazon.com/gp/product/B07Y8JS4BS){:target="_blank"}
 * Heatshrink wrap to tidy it all up [$5](https://www.amazon.com/gp/product/B01MFA3OFA){:target="_blank"}
 
-To create the cable you want to cut and splice into the USB cable so that the mic and power pins are wired as shown below.  What I did was actually cut away the shilding at the mini USB side to confirm the wire color to pin assignment. Then about 6 inches from that mini USB plug, I cut the cable and spliced in the microphone jack adapter.  This allowed me to still use the USB A side to power the camera (no need to touch pin 1 and 5 as they are already correct).  
+To create the cable you want to cut and splice into the USB cable so that the mic and power pins are wired as shown below.  What I did was actually cut away the shielding at the mini USB side to confirm the wire color to pin assignment. Then about 6 inches from that mini USB plug, I cut the cable and spliced in the microphone jack adapter.  This allowed me to still use the USB A side to power the camera (no need to touch pin 1 and 5 as they are already correct).  
 
 Essentially, you just want to find the colored wire from pin 9 and 10 and connect them to the headphone jack adapter red and black wires. Then find the colored wire from pin 6 and splice it into the colored wire connected to pin 5. After a little solder and heat wrap, the cable looks like this:
 
@@ -46,7 +46,7 @@ Essentially, you just want to find the colored wire from pin 9 and 10 and connec
 ![](../images/sjcam-pinout.png)
 *Pinout above is looking into the usb cable as your would hold it in your hand.*
 
-- **1 = Vcc +5V (red) alredy connected to USB A side**
+- **1 = Vcc +5V (red) already connected to USB A side**
 - 2 = data + (white), not in use
 - 3 = data - (green), not in use
 - 4 = not in use
@@ -65,7 +65,7 @@ Full details can be found at this [link](https://sjcam.com/community/threads/add
 
 ## Usage
 
-The normal setup is faily straight forward.  Attach the camera to the suction mount and position inside the car.  Run the lapel mic to a place within the car cockpit (I usually clip it to a seatbelt or close to the floorboard).  Run the USB charging cables and tape all cords down (I use blue painters tape).  Plug in the OBD reader, mount the external GPS so that it has good visibilty to the sky, place the phone in your phone holder, and finally start the TrackAddict software and select your track.  The software will connect to your external 16Hz GPS (BLE), connect to your OBD reader (BLE) to gather data from the engine, and control the camera start and stop recording functions via wifi. 
+The normal setup is fairly straight forward.  Attach the camera to the suction mount and position inside the car.  Run the lapel mic to a place within the car cockpit (I usually clip it to a seatbelt or close to the floorboard).  Run the USB charging cables and tape all cords down (I use blue painters tape).  Plug in the OBD reader, mount the external GPS so that it has good visibility to the sky, place the phone in your phone holder, and finally start the TrackAddict software and select your track.  The software will connect to your external 16Hz GPS (BLE), connect to your OBD reader (BLE) to gather data from the engine, and control the camera start and stop recording functions via wifi. 
 
 >Once last gotcha with this camera.  Ensure you turn spot metering **ON**.  If you do not (like I mistakenly did), the inside footage of the car will be perfect, but anything outside the windshield will be just a white washout.
 ![](../images/sjcam-spotmetering.png)
