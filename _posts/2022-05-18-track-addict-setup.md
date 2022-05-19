@@ -1,7 +1,8 @@
 ---
 title: "HPDE Video & Data Setup Recording with TrackAddict"
 date: "2022-05-18"
-categories: [HDPE, TrackDays, TrackAddict, RaceRender, Video, Data, Logging]
+tags: [HDPE, TrackDays, TrackAddict, RaceRender, Video, Data, Logging]
+categories: [HDPE, TrackDays]
 published: true
 ---
 <img src="../images/track-addict.jpeg" alt="" width="275"/>
