@@ -9,7 +9,7 @@ My High Performance Driving Video and Data Logging Setup.
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
 #Overview
-I have been interested in High Performacne Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video and data recording.  My requires were fairly simple, decent video (1080p min, 4k preferred), decent audio from an external mic, the ability to charge without having to worry about battery constraints, OBD data logging, and finally accurate GPS positioning.  After hours of research, I think I have found a recipe that works.  
+I have been interested in High Performacne Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requires were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition I wanted OBD data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works.  
 
 **Hardware:**
 * OBD BLE Data Reader [$40](https://www.amazon.com/gp/product/B073XKQQQW)
