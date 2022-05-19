@@ -11,7 +11,7 @@ My High Performance Driving Video and Data Logging Setup.
 
 # Overview
 
-I have been interested in High Performance Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works and all in for under $500.  This is less than 1/2 the cost compared to the professional [AiM Sports SmartyCam HD 2.1](https://store.windingroad.com/aim-sports-smartycam-hd-2-1){:target="_blank"}.  
+I have been interested in High Performance Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After days/weeks of research and software/hardware trial and error, I think I have found a recipe that works and all in for under $500.  This is less than 1/2 the cost compared to the professional [AiM Sports SmartyCam HD 2.1](https://store.windingroad.com/aim-sports-smartycam-hd-2-1){:target="_blank"}.  
 
 **Hardware:**
 * OBD BLE Data Reader [$40](https://www.amazon.com/gp/product/B073XKQQQW){:target="_blank"}
