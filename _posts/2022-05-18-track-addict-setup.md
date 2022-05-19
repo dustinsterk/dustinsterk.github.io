@@ -30,7 +30,7 @@ I have been interested in High Performance Driving (HPDE) events since 2018.  I 
 * Camera suction mount [$40](https://www.amazon.com/gp/product/B00F19Q7YI){:target="_blank"}
 * Micro USB Card (64 gig) [$15](https://www.amazon.com/gp/product/B073JYVKNX){:target="_blank"}
 
-## DIY Camera Combo Cable (Optional)
+## DIY Camera Combo Cable (if not purchased above)
 
 -Note, this DIY assumes you understand basic wiring pinout and have the supplies & know how to solder.
 * 10 pin usb cable [$10](https://www.amazon.com/gp/product/B06XG1J9CY){:target="_blank"}
