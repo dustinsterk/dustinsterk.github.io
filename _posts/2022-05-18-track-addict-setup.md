@@ -10,7 +10,7 @@ My High Performance Driving Video and Data Logging Setup.
 
 # Overview
 
-I have been interested in High Performacne Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works.  
+I have been interested in High Performacne Driving (HPDE) events since 2018.  I set out to find the best DIY setup for video/audio and data recording.  My requirements were fairly simple; a camera that had decent video (1080p/4k preferred), gyro stabilization, wifi, audio from an external mic, and the ability to charge without having to worry about battery constraints.  In addition, I wanted OBD engine data logging, and an external 16Hz GPS sensor for accurate track positioning.  After hours of research, I think I have found a recipe that works and all in for under $500.  This is less than 1/2 the cost compared to the professional [AiM Sports SmartyCam HD 2.1](https://store.windingroad.com/aim-sports-smartycam-hd-2-1).  
 
 **Hardware:**
 * OBD BLE Data Reader [$40](https://www.amazon.com/gp/product/B073XKQQQW){:target="_blank"}
@@ -18,7 +18,7 @@ I have been interested in High Performacne Driving (HPDE) events since 2018.  I 
 *  SCJAM SJ6 Legend [$125](https://www.bhphotovideo.com/c/product/1437113-REG/sjcam_sj6legend_sj6_legend_4k_action.html){:target="_blank"}
 
 **Software:**
-* Track Addict (iOS or Android) - [$9 for pro](https://racerender.com/TrackAddict/Features.html){:target="_blank"}
+* Track Addict (iOS or Android) - [$9](https://racerender.com/TrackAddict/Features.html){:target="_blank"}
 * RaceRender (post video, data sync software) [$60](https://racerender.com/RR3/Features.html){:target="_blank"}
 
 **Accessories:**
