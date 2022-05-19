@@ -18,7 +18,7 @@ I have been interested in High Performacne Driving (HPDE) events since 2018.  I 
 *  SCJAM SJ6 Legend [$125](https://www.bhphotovideo.com/c/product/1437113-REG/sjcam_sj6legend_sj6_legend_4k_action.html){:target="_blank"}
 
 **Software:**
-* Track Addict (iOS or Android) - [$9](https://racerender.com/TrackAddict/Features.html){:target="_blank"}
+* TrackAddict (iOS or Android) - [$9](https://racerender.com/TrackAddict/Features.html){:target="_blank"}
 * RaceRender (post video, data sync software) [$60](https://racerender.com/RR3/Features.html){:target="_blank"}
 
 **Accessories:**
@@ -72,6 +72,6 @@ The normal setup is faily straight forward.  Attach the camera to the suction mo
 
 ## Post Video Production
 
-After your track session, you can sync the external USB video from the camera to the TrackAddict data using Race Render.  From this you will have examples like the below with data overlayed on top of the video.  Happy Tracking!
+After your track session, you can sync the external USB video from the camera to the TrackAddict data using RaceRender.  From this you will have examples like the below with data overlayed on top of the video.  Happy Tracking!
 
 [![](https://img.youtube.com/vi/i1e750pw5TE/0.jpg#center)](https://www.youtube.com/watch?v=i1e750pw5TE){:target="_blank"}
