@@ -72,6 +72,12 @@ The normal setup is faily straight forward.  Attach the camera to the suction mo
 
 ## Post Video Production
 
-After your track session, you can sync the external USB video from the camera to the TrackAddict data using RaceRender.  From this you will have examples like the below with data overlayed on top of the video.  Happy Tracking!
+After your track session, you can sync the external USB video from the camera to the TrackAddict data using RaceRender.  From this you will have examples like the below with data overlayed on top of the video.  **Happy Tracking!**
 
+**Example with the above setup**
 [![](https://img.youtube.com/vi/i1e750pw5TE/0.jpg#center)](https://www.youtube.com/watch?v=i1e750pw5TE){:target="_blank"}
+
+**Examples with no external GPS and an old GoPro with no image/gyro stabilization.**
+[![](https://img.youtube.com/vi/IJ_6PITpKRk/0.jpg#center)](https://www.youtube.com/watch?v=IJ_6PITpKRk){:target="_blank"}
+
+[![](https://img.youtube.com/vi/3tPvPUWdH2A/0.jpg#center)](https://www.youtube.com/watch?v=3tPvPUWdH2A){:target="_blank"}
