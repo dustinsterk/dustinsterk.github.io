@@ -45,16 +45,17 @@ Essentially, you just want to find the colored wire from pin 9 and 10 and connec
 **Pinout and Instructions:**
 ![](../images/sjcam-pinout.png)
 *Pinout above is looking into the usb cable as your would hold it in your hand.*
-**1 = Vcc +5V (red) alredy connected to USB A side**
-2 = data + (white), not in use
-3 = data - (green), not in use
-4 = not in use
-**5 = GND (black) already connected to USB A side
-6 = PWM (connect pin 6 to GND Pin 5/Black with a splice)**
-7 = not in use
-8 = not in use
-**9 = GND (microphone jack) cut from USB A and wire into adapter
-10 = Signal (microphone jack) cut from USB A and wire into adapter**
+
+- **1 = Vcc +5V (red) alredy connected to USB A side**
+- 2 = data + (white), not in use
+- 3 = data - (green), not in use
+- 4 = not in use
+- **5 = GND (black) already connected to USB A side
+- 6 = PWM (connect pin 6 to GND Pin 5/Black with a splice)**
+- 7 = not in use
+- 8 = not in use
+- **9 = GND (microphone jack) cut from USB A and wire into adapter
+- 10 = Signal (microphone jack) cut from USB A and wire into adapter**
 
 If you get background noise from the external microphone, just switch the wires at pin 9 and 10 as they maybe reversed.
 
