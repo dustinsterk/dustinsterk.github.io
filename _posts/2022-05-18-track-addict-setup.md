@@ -4,7 +4,7 @@ date: "2022-05-18"
 categories: [HDPE, TrackDays, TrackAddict, RaceRender]
 published: true
 ---
-<img src="../images/track-addict.jpeg" alt="" width="400"/>
+<img src="../images/track-addict.jpeg" alt="" width="275"/>
 My High Performance Driving Video and Data Logging Setup.
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
