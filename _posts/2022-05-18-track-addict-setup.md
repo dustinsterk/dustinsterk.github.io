@@ -60,11 +60,11 @@ Essentially, you just want to find the colored wire from pin 9 and 10 and connec
 
 If you get background noise from the external microphone, just switch the wires at pin 9 and 10 as they maybe reversed.
 
-> **IMPORTANT**:  The one thing you must remember is the camera must have the Gimbal setting turned off (or just reset the camera to defaults to be safe). I spent hours thinking my cable was faulty when it was just the Gimbal setting overriding the USB port detection. When your cable is plugged in you will see a "Busy" message as it switches to the external microphone.
-
 Full details can be found at this [link](https://sjcam.com/community/threads/adding-powerbank-and-external-mic.2440/){:target="_blank"}
 
 ## Usage
+
+> **IMPORTANT**:  The one thing you must remember is the camera must have the Gimbal setting turned off (or just reset the camera to defaults to be safe). I spent hours thinking my cable was faulty when it was just the Gimbal setting overriding the USB port detection. When your cable is plugged in you will see a "Busy" message as it switches to the external microphone.
 
 The normal setup is fairly straight forward.  Attach the camera to the suction mount and position inside the car.  Run the lapel mic to a place within the car cockpit (I usually clip it to a seatbelt or close to the floorboard).  Run the USB charging cables and tape all cords down (I use blue painters tape).  Plug in the OBD reader, mount the external GPS so that it has good visibility to the sky, place the phone in your phone holder, and finally start the TrackAddict software and select your track.  The software will connect to your external 16Hz GPS (BLE), connect to your OBD reader (BLE) to gather data from the engine, and control the camera start and stop recording functions via wifi. 
 
