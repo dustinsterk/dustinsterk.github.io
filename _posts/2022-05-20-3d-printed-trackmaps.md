@@ -5,7 +5,7 @@ tags: [3DPrinting, Trackmaps]
 categories: [3DPrinting]
 published: true
 ---
-<img src="../images/njmp-trackmap.jpg" alt="" width="300    "/>
+<img src="../images/njmp-trackmap.jpg" alt="" width="400"/>
 Creating and 3D Printing Track Maps
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
