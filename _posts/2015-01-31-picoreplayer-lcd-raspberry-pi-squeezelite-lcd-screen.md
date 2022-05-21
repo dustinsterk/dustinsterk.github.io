@@ -61,10 +61,4 @@ Now save and exit as described above using the vi commands.  Finally reboot the
 ```
 mac = subprocess.check\_output("grep -o -E '(\[\[:xdigit:\]\]{1,2}:){5}\[\[:xdigit:\]\]{1,2}' /usr/local/sbin/config.cfg", shell=True).upper().rstrip()
 ```
-You should now have a working player with an active LCD screen.  Happy Listening!!!
-
- 
-
-\*\*\*Update:\*\*\*
-
-Code for the readsq.py file to update other versions of piCorePlayer: [readsq.py](http://www.thesterk.com/wp-content/uploads/2015/01/readsq.py_.txt){:target="_blank"}
+You should now have a working player with an active LCD screen.  **Happy Listening!!!**
