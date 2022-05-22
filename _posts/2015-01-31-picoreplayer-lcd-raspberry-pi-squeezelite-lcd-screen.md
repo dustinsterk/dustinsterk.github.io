@@ -25,7 +25,7 @@ Purchase the following:
 
 ![](../images/piCorePlayerLCD-672x372.jpg)
 
-**Step 3:** Load the following image from your machine on the SD card [Download](https://drive.google.com/file/d/0B-txOr6ZUTq5blI4RkQxNXF4ajg/view?usp=sharing){:target="_blank"}
+**Step 3:** Load the following image from your machine on the SD card [Download](https://drive.google.com/file/d/0B-txOr6ZUTq5blI4RkQxNXF4ajg/view?usp=sharing&resourcekey=0-KT9U_zoLGBiqSWtVTb2lzg){:target="_blank"}
 
 You can copy the image using “dd” if in Linux or Win32diskimager if in windows ([Win32diskimager)](http://sourceforge.net/projects/win32diskimager/){:target="_blank"}.
 
