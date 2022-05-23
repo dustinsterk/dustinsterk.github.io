@@ -71,6 +71,10 @@ The normal setup is fairly straight forward.  Attach the camera to the suction m
 >Once last gotcha with this camera.  Ensure you turn spot metering **ON**.  If you do not (like I mistakenly did), the inside footage of the car will be perfect, but anything outside the windshield will be just a white washout.
 ![](../images/sjcam-spotmetering.png)
 
+## Post Track Analysis
+
+As an added bonus, TrackAddict allow you to export your data as a .VBO.  This file can be used by other tools for analysis.  [Circuit Tools](https://www.vboxmotorsport.co.uk/index.php/us/support/software){:target="_blank"} happens to be a free amazing piece of software to do just that.  You can even compare multiple laps and zoom into the track to see how you ran the lines, compare entrance and exit speed and look for areas to improve.
+
 ## Post Video Production
 
 After your track session, you can sync the external USB video from the camera to the TrackAddict data using RaceRender.  From this you will have examples like the below with data overlayed on top of the video.  **Happy Tracking!**
