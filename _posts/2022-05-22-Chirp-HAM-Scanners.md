@@ -6,7 +6,7 @@ categories: [HAM Radio]
 published: true
 ---
 <img src="../images/Chirp.jpg" alt="" width="400    "/>
-Cheap radio fun!
+Radio fun with Motorsports!
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
 # Overview
