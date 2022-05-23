@@ -5,8 +5,8 @@ tags: [HAM Radios, Chirp, Scanners, Indy 500]
 categories: [HAM Radio]
 published: true
 ---
-<img src="../images/Chirp.jpg" alt="" width="300    "/>
-Hello World
+<img src="../images/Chirp.jpg" alt="" width="400    "/>
+Cheap radio fun!
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
 # Overview
