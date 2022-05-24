@@ -19,5 +19,5 @@ After looking a bit further I also found a fellow radio enthusiast has created a
 
 Do not forget ear protection and also a converter cable which allows a standard 3.5mm plug with your radio:
 - [Honeywell Sync Stereo MP3 Earmuff](https://www.amazon.com/dp/B004U4A5RU){:target="_blank"}
-- [Audio Jack Adapter Cable](https://www.amazon.com/dp/B071LJJ6VG){:target="_blank"} (this one only plays audio through the left ear - mono).  You can also pull it out a few millimeters and it give you stereo sound, but a bit to janky for me.
+- [Audio Jack Adapter Cable](https://www.amazon.com/dp/B071LJJ6VG){:target="_blank"} (this adapter only plays audio through one of the headphones ears - mono sound).  You can also pull the plug out of the radio a few millimeters and it give you stereo sound, but its a bit janky for me.  I am opting for the setup below.
 - [Stereo Adapter](https://www.amazon.com/gp/product/B019YJMRZS){:target="_blank"} and [Microphone cord](https://www.amazon.com/gp/product/B096TNRBGQ){:target="_blank"}.  This setup should allow for stereo sound in the headphones and the ability to transmit since there is also a PTT button and inline microphone in the cord/cable.
