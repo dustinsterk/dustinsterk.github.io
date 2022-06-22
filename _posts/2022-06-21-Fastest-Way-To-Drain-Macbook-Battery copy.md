@@ -2,7 +2,7 @@
 title: "The Fastest Way To Drain Your MacBook Battery Before Replacement"
 date: "2022-05-21"
 tags: [MacBook, Battery Replacement, Terminal]
-categories: [Macbook]
+categories: [MacBook]
 published: true
 ---
 <img src="../images/macbook-pro-battery.jpg" alt="" width="300"/>
