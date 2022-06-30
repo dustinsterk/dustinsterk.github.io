@@ -1,9 +1,9 @@
 ---
-title: "Getting Things Done Method in VSCode"
-date: "2022-07-01"
+title: "The Getting Things Done (GTD) Method in VSCode"
+date: "2022-06-29"
 tags: [GTD, VSCode, TodoMD]
 categories: [GTD]
-published: false
+published: true
 ---
 <img src="../images/todoMD.jpg" alt="" width="300    "/>
 Using the Getting Things Done (GTD) method with simple text in VSCode
@@ -18,7 +18,7 @@ First, install [VSCode](https://code.visualstudio.com/download){:target="_blank"
 ## Examples
 I like to organize my text files based on the method taught in David's book.  This consists of an Inbox, Projects, Reference, Someday/Maybe, NextActions and DelegatedActions.  Using the TodoMD extension this allows me views of what is important and the ability to set due dates, cross off completed items, etc.
 
-<img src="../images/todoMD_Example.jpg" alt="" width="300    "/>
+<img src="../images/todoMD_Example.jpg" alt="" width="600    "/>
 
 Using just Tabs (for parent/child nested items) and the special uses of #, @, + and {due:DATE}, the many views on the left and bottom allow for your action lists to be build dynamically.
 
