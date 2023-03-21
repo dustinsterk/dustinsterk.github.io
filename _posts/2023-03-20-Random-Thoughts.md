@@ -12,7 +12,7 @@ Random Thoughts...
 # Random Thoughts from the Past 9 Months
 It has been a busy start to the new year with my full time role and family winter activities.  A few bits that have been keeping me busy:
 * Travel - UK and Paris for work and pleasure.
-* Dusting off my snowboard and teaching our family to ski (well, mainly my wife).
+* Dusting off my snowboard and my wife and I teaching our family to ski.
 * VR golf and mini putt putt.
 * Restoring DMG-01 Original Gameboy's.  Including building a "retro bright" lightbox to re-whitening yellowing plastic and some minor soldering work.
 * Scanning local digital radio channels with my [Bluetail Technologies](https://bluetailtechnologies.com/){:target="_blank"} MicroP25RX.  Sadly this kit is no longer being produced but it is one great little device with a physical screen (via Wio Terminal) and [App based](https://github.com/tvelliott/MicroP25RXMon){:target="_blank"} scanning.  The sole owner of the company and engineer is possibly working on a updated model once chip supply chain issues ease.
@@ -24,5 +24,5 @@ It has been a busy start to the new year with my full time role and family winte
 * Getting back in shape with a Peloton and Garmin Forerunner 955 (I love this watch!).
 * Nerding out on Sim racing data with [Garage61](https://garage61.net/){:target="_blank"}.
 * Enjoying French Pressed Coffee.
-* Enjoying:  The Last of Us, Clarkson's Farm (season 2), White Lotus, and others.
+* Enjoying:  The Last of Us, Clarkson's Farm (Season 2), White Lotus, and others.
 * Gearing up for a great season of IMSA and Indycar racing (and maybe a little track time myself this year).
