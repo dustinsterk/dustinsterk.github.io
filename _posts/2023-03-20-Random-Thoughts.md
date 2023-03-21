@@ -24,5 +24,5 @@ It has been a busy start to the new year with my full time role and family winte
 * Getting back in shape with a Peloton and Garmin Forerunner 955 (I love this watch!).
 * Nerding out on Sim racing data with [Garage61](https://garage61.net/){:target="_blank"}.
 * Enjoying French Pressed Coffee.
-* Enjoying:  The Last of Us, Clarkson's Farm (season 2), White Louts, and others.
+* Enjoying:  The Last of Us, Clarkson's Farm (season 2), White Lotus, and others.
 * Gearing up for a great season of IMSA and Indycar racing (and maybe a little track time myself this year).
