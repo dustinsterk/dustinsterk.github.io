@@ -5,7 +5,7 @@ tags: [RandomThoughts]
 categories: [RandomThoughts]
 published: true
 ---
-<img src="../images/thoughbubble.png" alt="" width="300    "/>
+<img src="../images/thoughtbubble.png" alt="" width="300    "/>
 Random Thoughts...
 {:style="color:gray;font-style:italic;font-size:90%;text-align:center;"}
 
