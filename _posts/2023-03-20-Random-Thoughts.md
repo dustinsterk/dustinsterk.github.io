@@ -21,7 +21,7 @@ It has been a busy start to the new year with my full time role and family winte
 * Building a sim accessory VoCore 5" Dash with a [3D Printed Case](https://www.thingiverse.com/thing:5429126){:target="_blank"} and [Screen](https://vocore.io/screen.html){:target="_blank"}
 * Investigating CanBus [Data Collection](https://racechrono.com/forum/discussion/1746/my-first-build-can-bus-and-gps-through-bluetooth-le/p4){:target="_blank"} via a ESP32, Bluetooth and RaceChrono.  Example project [here](https://github.com/joeroback/racechrono-canbus){:target="_blank"} and [here](https://g80.bimmerpost.com/forums/showthread.php?t=1959139){:target="_blank"}.
 * Home Air Quality monitoring via [Airgradient](https://www.airgradient.com/open-airgradient/kits/){:target="_blank"}.
-* Getting back in shape with a Peleton and Garmin Forefunner 955 (I love this watch!).
+* Getting back in shape with a Peloton and Garmin Forerunner 955 (I love this watch!).
 * Nerding out on Sim racing data with [Garage61](https://garage61.net/){:target="_blank"}.
 * Enjoying French Pressed Coffee.
 * Enjoying:  The Last of Us, Clarkson's Farm (season 2), White Louts, and others.
